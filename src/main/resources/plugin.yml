@@ -1,0 +1,6 @@
+name: ItemLossPlugin
+version: 1.0
+main: com.example.itemloss.ItemLossPlugin
+api-version: "1.21"
+author: YourName
+description: "死亡時に50%の確率でアイテムを消失させ、リスポーン時に通知するプラグイン"
