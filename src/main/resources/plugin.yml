@@ -1,0 +1,6 @@
+name: NoFireMobsPlugin
+main: com.example.nofiremobs.NoFireMobsPlugin
+version: 1.0
+author: YourName
+api-version: '1.21'
+description: Prevent mobs from igniting blocks.
